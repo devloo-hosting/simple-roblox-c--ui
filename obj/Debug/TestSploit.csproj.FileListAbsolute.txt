@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\TestSploit.exe.config
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\TestSploit.exe
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\TestSploit.pdb
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.Main.resources
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.Properties.Resources.resources
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.csproj.Up2Date
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.exe
+C:\Users\Admin\Desktop\TestSploit\obj\Debug\TestSploit.pdb
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\TestSploit\bin\Debug\FastColoredTextBox.xml
